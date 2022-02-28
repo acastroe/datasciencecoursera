@@ -1,0 +1,18 @@
+---
+title: "Course Project"
+author: "Andrea Castro"
+date: "28/2/2022"
+output:
+  html_document:
+    df_print: paged
+
+---
+
+## My submission
+
+This is my very first R markdown and it's purpose is to be submitted as part of my course project.  
+  
+*Note*: Although the instructions say it's pretty straightforward, I don't really know what to do, I would've rather having a list of the items we were supposed to include, so I hope **this** suffices.  
+
+![*I googled how to add images](cheems.png)
+ 
